@@ -26,9 +26,9 @@ fstream
 
 # Future Work
 
-Things to improve/add
+Things to improve/add:
 
 - Scrubbing user input
 - Error handling
-- alter read/write format to something more universal, such as .json
-- make table view mroe dynamic for larger description sizes (array of chars divided by character width?)
+- Alter read/write format to something more universal, such as .json
+- Make table view more dynamic for larger description sizes (array of chars divided by character width?)
